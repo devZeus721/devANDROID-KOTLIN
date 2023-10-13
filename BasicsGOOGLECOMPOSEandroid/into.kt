@@ -8,3 +8,7 @@ and robust app for users. Essentially, with Kotlin, you can write better Android
 shorter amount of time. As a result, Kotlin is gaining momentum in the industry and is the
 language that the majority of professional Android developers use.
 * * */
+
+fun main() {
+    println("Hello, world!")
+}
